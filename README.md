@@ -12,8 +12,5 @@ icon: hand-wave
 
 
 
-{% embed url="https://youtu.be/8Cg3p9K0il4?si=0BOgeBmXWVXsJp3K" %}
+{% embed url="https://codepen.io/Wenfei-Tang/pen/abeXjWj" %}
 
-
-
-{% embed url="https://youtu.be/8Cg3p9K0il4?si=0BOgeBmXWVXsJp3K" %}
