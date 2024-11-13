@@ -10,9 +10,7 @@ icon: hand-wave
 
 {% embed url="https://replit.com/@tangwwwfei/PaltryScalyGoal#main.py" %}
 
-{% embed url="https://codepen.io/harunpehlivan/full/qBNpGKr" %}
+{% embed url="https://codepen.io/harunpehlivan/full/qBNpGKr" fullWidth="true" %}
 
 
-
-{% embed url="https://codepen.io/Wenfei-Tang/pen/abeXjWj" %}
 
